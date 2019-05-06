@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="communication">cfa34408db1133005e3770e2399619b3</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>communication Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_143753_communica_communication_table</name>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_143753_communica.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-03 18:21:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>efa3c408db1133005e3770e239961950</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Communication Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
+        <sys_update_name>sys_app_module_efa3c408db1133005e3770e239961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-03 20:45:58</sys_updated_on>
+        <timeline_page/>
+        <title>Communication Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

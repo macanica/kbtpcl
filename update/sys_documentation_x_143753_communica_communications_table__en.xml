@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="communications Table" language="en" table="x_143753_communica_communications_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>communications Table</label>
+            <language>en</language>
+            <name>x_143753_communica_communications_table</name>
+            <plural>communications Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-03 20:48:15</sys_created_on>
+            <sys_id>b3256c0cdb5133005e3770e23996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>communications Table</sys_name>
+            <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
+            <sys_update_name>sys_documentation_x_143753_communica_communications_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-03 20:48:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
