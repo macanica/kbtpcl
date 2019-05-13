@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description>This will be the UI macro for displaying the list of communications on the task tickets. &#13;
+</description>
+        <media_type/>
+        <name>Communications</name>
+        <scoped_name>x_143753_communica_Communications</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 20:50:53</sys_created_on>
+        <sys_id>eb354897db5d33005e3770e2399619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Communications</sys_name>
+        <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
+        <sys_update_name>sys_ui_macro_eb354897db5d33005e3770e2399619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 20:50:53</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

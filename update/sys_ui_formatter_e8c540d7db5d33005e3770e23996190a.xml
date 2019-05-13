@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>Communications.xml</formatter>
+        <name>Communication Channel</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 20:52:09</sys_created_on>
+        <sys_id>e8c540d7db5d33005e3770e23996190a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Communication Channel</sys_name>
+        <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
+        <sys_update_name>sys_ui_formatter_e8c540d7db5d33005e3770e23996190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 20:54:03</sys_updated_on>
+        <table>task</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>
