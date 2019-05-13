@@ -1,49 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="ae274888db1133005e3770e23996196b" sys_domain="global" table="x_143753_communica_communication_table" version="3" view="">
+    <sys_ui_section caption="Communication Channel" section_id="ae274888db1133005e3770e23996196b" sys_domain="global" table="x_143753_communica_communication_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-03 21:11:48</sys_created_on>
-            <sys_id>cd9a2400db9133005e3770e23996197f</sys_id>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>5338df8fdb9933005e3770e239961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-03 21:11:48</sys_updated_on>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>communication_type</element>
+            <element>u_owner</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-03 21:11:48</sys_created_on>
-            <sys_id>419a2400db9133005e3770e239961980</sys_id>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>d338df8fdb9933005e3770e239961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-03 21:11:48</sys_updated_on>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>communications_list</element>
+            <element>u_table_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-03 21:11:48</sys_created_on>
-            <sys_id>c19a2400db9133005e3770e239961980</sys_id>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>5738df8fdb9933005e3770e239961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-03 21:11:48</sys_updated_on>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>d738df8fdb9933005e3770e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>5b38df8fdb9933005e3770e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>db38df8fdb9933005e3770e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>5f38df8fdb9933005e3770e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>df38df8fdb9933005e3770e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 17:32:19</sys_created_on>
+            <sys_id>5338df8fdb9933005e3770e239961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 17:32:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Communication Channel</caption>
             <header>false</header>
             <name>x_143753_communica_communication_table</name>
             <roles/>
@@ -53,15 +137,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ae274888db1133005e3770e23996196b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_143753_communica_communication_table</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Communication Channel</sys_name>
             <sys_overrides/>
             <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
             <sys_policy/>
             <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
             <sys_update_name>sys_ui_section_ae274888db1133005e3770e23996196b</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-03 18:37:05</sys_updated_on>
+            <sys_updated_on>2019-05-13 16:02:24</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

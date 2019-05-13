@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="92a307cbdb5933005e3770e23996197c" sys_domain="global" table="x_143753_communica_communication_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 16:02:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea307cbdb5933005e3770e2399619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143753_communica_communication_table" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">92a307cbdb5933005e3770e23996197c</sys_ui_form>
+            <sys_ui_section caption="Communication Channel" display_value="Communication Channel" name="x_143753_communica_communication_table" sys_domain="global" view="Default view">ae274888db1133005e3770e23996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 16:02:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_143753_communica_communication_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 16:02:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92a307cbdb5933005e3770e23996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_143753_communica_communication_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_92a307cbdb5933005e3770e23996197c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 16:02:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

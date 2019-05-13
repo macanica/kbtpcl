@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Communication channel" max_length="40" name="x_143753_communica_communication_table" type="collection">
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Communications" max_length="1024" name="communications_list" reference="x_143753_communica_communications_table" type="glide_list"/>
-        <element label="Communication Type" max_length="40" name="communication_type" type="string_full_utf8"/>
+        <element attributes="allow_tables" dependent="u_table_name" dependent_on_field="u_table_name" label="Document" max_length="32" name="document" type="document_id" use_dependent_field="true"/>
         <element label="Name" max_length="80" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1000" name="u_description" type="string"/>
+        <element label="Owner" max_length="32" name="u_owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="120" name="u_short_description" type="string"/>
+        <element attributes="base_start=true" label="Table" max_length="80" name="u_table_name" type="table_name"/>
+        <index name="index">
+            <element name="u_owner"/>
+        </index>
+        <index name="index2">
+            <element name="document"/>
+        </index>
     </element>
 </database>
