@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_bf256c0cdb5133005e3770e23996193f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-05-03 20:48:15</sys_updated_on>
-        <sys_user_role display_value="x_143753_communica.user" name="x_143753_communica.user">8ba3c408db1133005e3770e239961906</sys_user_role>
+        <sys_user_role display_value="x_143753_communica.communication user" name="x_143753_communica.communication user">8ba3c408db1133005e3770e239961906</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

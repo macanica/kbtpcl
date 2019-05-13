@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="communication Table" language="en" table="x_143753_communica_communication_table">
+    <sys_documentation element="" label="Communication channel" language="en" table="x_143753_communica_communication_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>communication Table</label>
+            <label>Communication channel</label>
             <language>en</language>
             <name>x_143753_communica_communication_table</name>
-            <plural>communication Tables</plural>
+            <plural>Communication channels</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-05-03 18:21:51</sys_created_on>
             <sys_id>57a3c408db1133005e3770e23996193f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>communication Table</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Communication channel</sys_name>
             <sys_package display_value="communication" source="x_143753_communica">83a30008db1133005e3770e2399619e7</sys_package>
             <sys_policy/>
             <sys_scope display_value="communication">83a30008db1133005e3770e2399619e7</sys_scope>
             <sys_update_name>sys_documentation_x_143753_communica_communication_table__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-03 18:21:51</sys_updated_on>
+            <sys_updated_on>2019-05-13 15:53:10</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

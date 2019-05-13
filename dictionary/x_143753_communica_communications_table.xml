@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="communications Table" max_length="40" name="x_143753_communica_communications_table" type="collection">
+    <element label="Communications" max_length="40" name="x_143753_communica_communications_table" type="collection">
         <element label="Communication Channel" max_length="32" name="communication_channel" reference="x_143753_communica_communication_table" type="reference"/>
         <element label="Communication Source" max_length="40" name="communication_source" type="string"/>
         <element label="Communication Type" max_length="40" name="communication_type" type="string"/>
